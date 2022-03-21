@@ -2,11 +2,11 @@
 You can input multiple web address and it will return the HTTP GET result.
 
 ## Install
-    pip install -r requirements.txt
+   pip install -r requirements.txt
 ## Run the app
-    python load_web.py
+   python load_web.py
 ## Run the test
-    python -m unittest
+   python -m unittest
 
 
 ## Import Format
